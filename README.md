@@ -8,8 +8,7 @@ In this homework I tried to create a rotational geometric spiral pattern using s
  
  This type of design is known for its visual appeal, and it's commonly used in abstract or optical art to create the illusion of movement and depth.
 
-Link:  
-[Homework 3 Link](https://6063b.github.io/homework/03/)
-
+**Examples of Optical Illusion** 
 Image on repo:  
-![image description](https://github.com/nikhilkhandelwal-DM-GY-6063-2024-Fall/HW03A/blob/main/Homework_WK03_A.jpg)
+![Example 1](https://github.com/nikhilkhandelwal-DM-GY-6063-2024-Fall/HW03B/blob/main/Optical%20Ill.jpg)
+[Example 2](https://github.com/nikhilkhandelwal-DM-GY-6063-2024-Fall/HW03B/blob/main/Op%20Ill.jpg)
